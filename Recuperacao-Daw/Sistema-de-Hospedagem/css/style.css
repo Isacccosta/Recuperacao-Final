@@ -1,0 +1,31 @@
+div{
+    align-items: center;
+}
+body{
+
+    background-image: linear-gradient(rgb(0, 0, 0), rgb(255, 0, 200));
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    font-family: Arial, Helvetica, sans-serif;
+    font: italic bold 15px arial, sans-serif;
+    color: white;
+    text-align: center;
+}
+button {
+    align-items: center;
+    background-image: linear rgb255, 255, 255;
+    border: 0;
+    border-radius: 1rem;
+    display: block-inline;
+    box-shadow: rgba(85, 11, 170, 0.2) 0 15px 30px -5px;
+    box-sizing: border-box;
+    color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+    font: italic bold 20px arial, sans-serif;
+    justify-content: center;
+    line-height: 1em;
+    max-width: 100%;
+    min-width: 140px;
+    padding: 0.5rem;
+   }
